@@ -1,0 +1,7 @@
+#print('Hello World')
+print('Hello again')
+print('I like typing this.')
+print('This is fun.')
+print('My name is jeff')
+print('HI!')
+print('Who are you')
